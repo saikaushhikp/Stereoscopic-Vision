@@ -1,4 +1,4 @@
-# Contributor shall help me(and others) understand(OVEVIEW) the suggested contents
+# Contributors shall help me(and others) understand(OVERVIEW) the suggested contents
 
 ## References
 
