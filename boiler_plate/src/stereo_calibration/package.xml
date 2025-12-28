@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>stereo_calibration</name>
+  <version>0.0.1</version>
+  <description>Stereo camera calibration utilities</description>
+
+  <maintainer email="sai2006kaushik@gmail.com">Sai Kaushik. P</maintainer>
+  <license>MIT License</license>
+
+  <exec_depend>python3-opencv</exec_depend>
+</package>

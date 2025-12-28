@@ -1,0 +1,32 @@
+# =========================================================
+# Python Dependencies (installed via conda / pip)
+# =========================================================
+python>=3.10
+
+numpy
+opencv-python
+pyyaml
+
+# ROS Python tooling (usually provided by ROS installation)
+rclpy
+cv_bridge
+
+# =========================================================
+# ROS 2 Packages (installed via apt)
+# =========================================================
+ros-humble-ros-base
+ros-humble-launch
+ros-humble-launch-ros
+ros-humble-sensor-msgs
+ros-humble-std-msgs
+ros-humble-cv-bridge
+ros-humble-image-transport
+
+# =========================================================
+# System / Build Dependencies
+# =========================================================
+cmake
+git
+build-essential
+python3-colcon-common-extensions
+python3-rosdep

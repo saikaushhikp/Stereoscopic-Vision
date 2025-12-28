@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>stereo_bringup</name>
+  <version>0.0.1</version>
+  <description>Launch files for stereo vision pipeline</description>
+
+  <maintainer email="sai2006kaushik@gmail.com">Sai Kaushik. P</maintainer>
+  <license>MIT License</license>
+
+  <exec_depend>launch</exec_depend>
+  <exec_depend>launch_ros</exec_depend>
+</package>

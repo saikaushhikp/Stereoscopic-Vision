@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>stereo_perception</name>
+  <version>0.0.1</version>
+  <description>Stereo perception nodes</description>
+
+  <maintainer email="sai2006kaushik@gmail.com">Sai Kaushik. P</maintainer>
+  <license>MIT License</license>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+  <exec_depend>cv_bridge</exec_depend>
+</package>

@@ -1,4 +1,5 @@
 # Stereoscopic-Vision
-Implementation - to be added
+Implementation - sample code snippets(NOT YET TESTED) have been added to `/boiler_plate/` and needs to be tested.
 
-# works shall be added here ,Hehehe 
+
+# future works shall be added here ,Hehehe 

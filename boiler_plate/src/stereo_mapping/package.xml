@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>stereo_mapping</name>
+  <version>0.0.1</version>
+  <description>3D mapping and point cloud generation</description>
+
+  <maintainer email="sai2006kaushik@gmail.com">Sai Kaushik. P</maintainer>
+  <license>MIT License</license>
+
+  <exec_depend>rclpy</exec_depend>
+  <exec_depend>sensor_msgs</exec_depend>
+</package>
