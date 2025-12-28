@@ -1,17 +1,15 @@
-# Implementation Guide
+<!-- # Implementation Guide
 
-Quick reference for deploying the stereoscopic vision system on a robotic platform.
+Quick reference for deploying the stereoscopic vision system on a robotic platform. -->
 
-## System Architecture
-
-<!-- ### Data Flow
+## Data Flow
 
 ```
 Sensors → Perception → Mapping → Navigation
    ↓           ↓          ↓         ↓
  Stereo    Disparity   SLAM/   Path Planning
 + IMU      + Depth     Mapping  + Avoidance
-``` -->
+```
 
 ### Layer Breakdown
 
